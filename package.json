@@ -85,7 +85,7 @@
     "passport-jwt": "^3.0.0",
     "path": "^0.12.7",
     "pizzip": "^3.0.6",
-    "querymen": "^2.1.3",
+    "querymen": "^2.1.4",
     "rand-token": "^0.4.0",
     "request": "^2.83.0",
     "request-promise": "^4.2.2",
